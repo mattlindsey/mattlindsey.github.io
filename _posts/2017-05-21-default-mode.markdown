@@ -2,7 +2,7 @@
 layout: post
 title:  "Rectify Your Default Thinking"
 date:   2017-05-19 13:01:21 -0400
-categories: psychology mindfulness
+categories: psychology
 ---
 Many of us feel that we lack the great achievements of the entrepreneur or the wealthy businessman, but I would like to argue that the highest achievements are not of the self, but of our contributions to the happiness of mankind. 
 To start, most of us have a fixed pattern of self-centered thinking that should be abandoned. We are all under the delusion that we are the absolute center of the universe and our achievements are paramount. This is a delusion that is not evil, but insidious. It blinds us to the possibilities of acting outside of our own skull-sized kingdoms, on behalf of others, or for a larger cause or goal than our own beauty, intelligence, or wealth -- or achievements.
