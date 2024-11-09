@@ -16,6 +16,9 @@
 - Using traditional @import syntax instead of newer @use/@forward for Jekyll compatibility
 - Color functions use deprecated lighten/darken - acceptable for now despite warnings
 - Sass deprecation warnings expected and can be ignored
+- Bootstrap classes (text-center) do not reliably center images
+- Image centering requires both display:block AND margin:auto AND parent container width control
+- Avoid relying on Bootstrap utilities for core layout - use direct CSS/SCSS instead
 
 ## Dependencies
 - Requires csv gem for Jekyll 4.3.4
