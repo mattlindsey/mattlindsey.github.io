@@ -10,11 +10,12 @@ title: Matt Lindsey's Blog
 email: matthew.r.lindsey@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
        This is Matt Lindsey blog associated with www.matthewrlindsey.org.
-       I will post interesting articles here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: matthewrlindsey
 github_username:  mattlindsey
+exclude:
+  - site
 
 # Build settings
 markdown: kramdown
